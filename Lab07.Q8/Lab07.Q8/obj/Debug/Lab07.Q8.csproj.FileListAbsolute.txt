@@ -1,0 +1,8 @@
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab07.Q8\Lab07.Q8\bin\Debug\Lab07.Q8.exe.config
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab07.Q8\Lab07.Q8\bin\Debug\Lab07.Q8.exe
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab07.Q8\Lab07.Q8\bin\Debug\Lab07.Q8.pdb
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab07.Q8\Lab07.Q8\obj\Debug\Lab07.Q8.csproj.AssemblyReference.cache
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab07.Q8\Lab07.Q8\obj\Debug\Lab07.Q8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab07.Q8\Lab07.Q8\obj\Debug\Lab07.Q8.csproj.CoreCompileInputs.cache
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab07.Q8\Lab07.Q8\obj\Debug\Lab07.Q8.exe
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab07.Q8\Lab07.Q8\obj\Debug\Lab07.Q8.pdb
