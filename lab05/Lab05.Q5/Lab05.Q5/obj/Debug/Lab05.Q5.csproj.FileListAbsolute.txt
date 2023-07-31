@@ -1,0 +1,8 @@
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab05.Q5\Lab05.Q5\obj\Debug\Lab05.Q5.csproj.AssemblyReference.cache
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab05.Q5\Lab05.Q5\obj\Debug\Lab05.Q5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab05.Q5\Lab05.Q5\obj\Debug\Lab05.Q5.csproj.CoreCompileInputs.cache
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab05.Q5\Lab05.Q5\bin\Debug\Lab05.Q5.exe.config
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab05.Q5\Lab05.Q5\bin\Debug\Lab05.Q5.exe
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab05.Q5\Lab05.Q5\bin\Debug\Lab05.Q5.pdb
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab05.Q5\Lab05.Q5\obj\Debug\Lab05.Q5.exe
+C:\Users\Dilmi\OneDrive\Documents\C#LabTutorials\Lab05.Q5\Lab05.Q5\obj\Debug\Lab05.Q5.pdb
